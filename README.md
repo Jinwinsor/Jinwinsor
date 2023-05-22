@@ -12,6 +12,8 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=AWS&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a> 
+
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom
 https://img.shields.io/badge/Instagram-#E4405F?style=flat-square&logo=Instagram&5D87BF=white&link=https://www.instagram.com/
