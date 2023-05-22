@@ -16,6 +16,8 @@
 https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom
 https://img.shields.io/badge/Instagram-#E4405F?style=flat-square&logo=Instagram&5D87BF=white&link=https://www.instagram.com/
 
+https://img.shields.io/static/v1?label=V&message=Instagram&color=#5D87BF
+
 
 <!--
 **Jinwinsor/Jinwinsor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
