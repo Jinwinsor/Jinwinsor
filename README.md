@@ -1,10 +1,16 @@
 ### Hi there 👋
 
+
+<h3 align="center"> ✦ Tech Stack ✦ </h3>
+
+<p align="center"> Techs that I am able to use. </p>
+
+<p align="center"> 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> 
-
-<h3 align="center"> ✦ Tech Stack ✦ </h3>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white"/></a> 
+</p>
 
 
 <!--
