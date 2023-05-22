@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> 
+
+<h3 align="center"> ✦ Tech Stack ✦ </h3>
 
 
 <!--
