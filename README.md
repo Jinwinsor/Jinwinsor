@@ -14,8 +14,7 @@
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a> 
 
 </p>
-<!-- 
-[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom)](https://velog.io/@new_wisdom) -->
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/)
 
 
