@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Jinhee
 
 <hr/>
-Python, Back-end developer | Live in Ontario, Canada 
+<p align="center">Python, Back-end developer | Live in Ontario, Canada </p>
 
 
 <h3 align="center"> ✦ Tech Stack ✦ </h3>
