@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?slice=wave&color=auto&120=300&section=header&text=Jinhee%20Winsor=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?slice=wave&color=auto&120=300&section=header&text=Jinhee%20Winsor&fontSize=90)
 
 <p align="center">### Hi there 👋, I'm Jinhee</p>
 
