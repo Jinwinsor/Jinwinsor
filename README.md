@@ -1,5 +1,6 @@
 <p align="center">### Hi there 👋, I'm Jinhee</p>
 
+[![Banner](https://github.com/your-Jinwinsor/github-header-image.png)](https://github.com/your-Jinwinsor)
 
 
 <hr/>
