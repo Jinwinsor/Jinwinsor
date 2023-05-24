@@ -1,7 +1,6 @@
+[![Banner](/Users/jinheewinsor/Downloads/github-header-image.png)](https://github.com/your-Jinwinsor)
+
 <p align="center">### Hi there 👋, I'm Jinhee</p>
-
-[![Banner](/Users/jinheewinsor/Downloads)](https://github.com/your-Jinwinsor)
-
 
 <hr/>
 <p align="center">Python, Back-end developer | Live in Ontario, Canada </p>
