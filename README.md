@@ -1,4 +1,4 @@
-[![Banner](https://github.com/github-header-image.png)](https://github.com/Jinwinsor)
+![header](https://capsule-render.vercel.app/api?slice=wave&color=auto&120=300&section=header&Jinhee%20Winsor=capsule%20render&fontSize=90)
 
 <p align="center">### Hi there 👋, I'm Jinhee</p>
 
