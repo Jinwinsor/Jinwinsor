@@ -1,4 +1,4 @@
-[![Banner](/Users/jinheewinsor/Downloads/github-header-image.png)](https://github.com/your-Jinwinsor)
+[![Banner](https://github.com/Jinwinsor/github-header-image.png)](https://github.com/Jinwinsor)
 
 <p align="center">### Hi there 👋, I'm Jinhee</p>
 
