@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Jinhee
+<p align="center">### Hi there 👋, I'm Jinhee</p>
 
 <hr/>
 <p align="center">Python, Back-end developer | Live in Ontario, Canada </p>
