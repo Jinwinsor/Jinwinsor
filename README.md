@@ -20,6 +20,17 @@ Python, Back-end developer | Live in Ontario, Canada
 
 <p align="center"> Contact with me.</p>
 
+
+<p align="center">
+  <a href="https://www.instagram.com/mohitto99/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:jinheewinsor@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
+
+
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=[https://www.instagram.com/mohitto99/)](https://www.instagram.com/mohitto99/)  [![Gmail](https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:jinheewinsor@gmail.com)
 
 <p align="center"> I can speak
