@@ -18,11 +18,10 @@ Python, Back-end developer | Live in Ontario, Canada
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a> 
 </p>
 
-<p align="center">
- Contact with me.
- 
+<p align="center"> Contact with me.</p>
+<h5 align="center">
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=[https://www.instagram.com/mohitto99/)](https://www.instagram.com/mohitto99/)  [![Gmail](https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:jinheewinsor@gmail.com)
-</p>
+</h5>
 
 <p align="center"> I can speak
   English | Korean | Japanese 
