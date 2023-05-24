@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Jinhee
 
 <hr/>
-I live in Ontario, Canada.
+Python, Back-end developer | Live in Ontario, Canada 
 
 
 <h3 align="center"> ✦ Tech Stack ✦ </h3>
@@ -24,6 +24,10 @@ I live in Ontario, Canada.
   
 [![Gmail](https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&jinheewinsor@gmail.com)](jinheewinsor@gmail.com)
 
+</p>
+
+<p align="center"> I can speak
+  English | Korean | Japanese 
 </p>
 
 <!--
