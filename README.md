@@ -20,9 +20,7 @@ Python, Back-end developer | Live in Ontario, Canada
 
 <p align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/)
-  
-[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&jinheewinsor@gmail.com)](jinheewinsor@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/) | [![Gmail](https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&jinheewinsor@gmail.com)](jinheewinsor@gmail.com)
 
 </p>
 
