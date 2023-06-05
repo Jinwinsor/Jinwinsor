@@ -25,7 +25,8 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jinhee-winsor-6260a619a/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="https://www.linkedin.com/in/jinhee-winsor-6260a619a/">
+    ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a href="https://www.instagram.com/mohitto99/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
   </a>
